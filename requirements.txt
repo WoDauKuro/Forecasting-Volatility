@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+requests
+arch
+statsmodels
+joblib
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+sqlite3
